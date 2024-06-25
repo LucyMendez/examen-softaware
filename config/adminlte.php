@@ -318,7 +318,7 @@ return [
         ],
         [
             'text' => 'Producto',
-            'url' => 'admin/settings',
+            'url' => 'productos',
             'icon' => 'fas fa-fw fa-user',
         ],
     ],
